@@ -13,6 +13,7 @@ namespace TUCDemoTimGit
 {
     public class Startup
     {
+        //teständring
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
